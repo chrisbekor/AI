@@ -1,0 +1,296 @@
+[
+    {
+        "speaker": "A",
+        "start": "00:00",
+        "end": "00:17",
+        "text": "Foreign. English Conversation between two friends hey James. How are you?"
+    },
+    {
+        "speaker": "B",
+        "start": "00:18",
+        "end": "00:22",
+        "text": "Oh my God. Emma. I am good. How are you?"
+    },
+    {
+        "speaker": "A",
+        "start": "00:23",
+        "end": "00:25",
+        "text": "Hey James. How are you?"
+    },
+    {
+        "speaker": "B",
+        "start": "00:26",
+        "end": "00:29",
+        "text": "Oh my God. Emma. I am good. How are you?"
+    },
+    {
+        "speaker": "A",
+        "start": "00:30",
+        "end": "00:32",
+        "text": "I am amazing."
+    },
+    {
+        "speaker": "B",
+        "start": "00:33",
+        "end": "00:36",
+        "text": "Great. Take the seat. This seat is empty."
+    },
+    {
+        "speaker": "A",
+        "start": "00:37",
+        "end": "00:38",
+        "text": "I am amazing."
+    },
+    {
+        "speaker": "B",
+        "start": "00:40",
+        "end": "00:43",
+        "text": "Great. Take the seat. This seat is empty."
+    },
+    {
+        "speaker": "A",
+        "start": "00:44",
+        "end": "00:46",
+        "text": "Long time no see."
+    },
+    {
+        "speaker": "B",
+        "start": "00:47",
+        "end": "00:50",
+        "text": "Yeah. Been busy with college. What about you?"
+    },
+    {
+        "speaker": "A",
+        "start": "00:52",
+        "end": "00:53",
+        "text": "Long time no see."
+    },
+    {
+        "speaker": "B",
+        "start": "00:55",
+        "end": "00:58",
+        "text": "Yeah. Been busy with college. What about you?"
+    },
+    {
+        "speaker": "A",
+        "start": "00:59",
+        "end": "01:04",
+        "text": "Same. I have been busy with college too. What are you doing now?"
+    },
+    {
+        "speaker": "B",
+        "start": "01:05",
+        "end": "01:08",
+        "text": "I just finished my graduation. What are you doing?"
+    },
+    {
+        "speaker": "A",
+        "start": "01:10",
+        "end": "01:14",
+        "text": "Same. I have been busy with college too. What are you doing now?"
+    },
+    {
+        "speaker": "B",
+        "start": "01:15",
+        "end": "01:18",
+        "text": "I just finished my graduation. What are you doing?"
+    },
+    {
+        "speaker": "A",
+        "start": "01:19",
+        "end": "01:23",
+        "text": "I am doing homeopathy at a nearby college."
+    },
+    {
+        "speaker": "B",
+        "start": "01:24",
+        "end": "01:27",
+        "text": "That's nice. How come you are on this train today?"
+    },
+    {
+        "speaker": "A",
+        "start": "01:28",
+        "end": "01:31",
+        "text": "I am doing homeopathy at a nearby college."
+    },
+    {
+        "speaker": "B",
+        "start": "01:32",
+        "end": "01:35",
+        "text": "That's nice. How come you are on this train today?"
+    },
+    {
+        "speaker": "A",
+        "start": "01:37",
+        "end": "01:42",
+        "text": "My college is here so I travel every day by this train. How come you are here today?"
+    },
+    {
+        "speaker": "B",
+        "start": "01:43",
+        "end": "01:48",
+        "text": "We had our convocation today so everyone had to come and collect their degree."
+    },
+    {
+        "speaker": "A",
+        "start": "01:49",
+        "end": "01:55",
+        "text": "My college is here so I travel every day by this train. How come you are here today?"
+    },
+    {
+        "speaker": "B",
+        "start": "01:56",
+        "end": "02:01",
+        "text": "We had our convocation today so everyone had to come and collect their degree."
+    },
+    {
+        "speaker": "A",
+        "start": "02:02",
+        "end": "02:04",
+        "text": "Oh. Congratulations."
+    },
+    {
+        "speaker": "B",
+        "start": "02:06",
+        "end": "02:12",
+        "text": "Thank you. I have been traveling by this train throughout my graduation years and it is one of the best trains."
+    },
+    {
+        "speaker": "A",
+        "start": "02:14",
+        "end": "02:16",
+        "text": "Oh, Congratulations."
+    },
+    {
+        "speaker": "B",
+        "start": "02:17",
+        "end": "02:23",
+        "text": "Thank you. I have been traveling by this train throughout my graduation years and it is one of the best trains."
+    },
+    {
+        "speaker": "A",
+        "start": "02:25",
+        "end": "02:30",
+        "text": "Yeah, I know. It is always empty and we always get a seat for ourselves."
+    },
+    {
+        "speaker": "B",
+        "start": "02:31",
+        "end": "02:35",
+        "text": "This is the exact reason I used to board this train all the time."
+    },
+    {
+        "speaker": "A",
+        "start": "02:37",
+        "end": "02:41",
+        "text": "Yeah, I know. It is always empty and we always get a seat for ourselves."
+    },
+    {
+        "speaker": "B",
+        "start": "02:43",
+        "end": "02:47",
+        "text": "This is the exact reason I used to board this train all the time."
+    },
+    {
+        "speaker": "A",
+        "start": "02:48",
+        "end": "02:54",
+        "text": "After being tired for the whole day, it is a relief to board an empty train."
+    },
+    {
+        "speaker": "B",
+        "start": "02:55",
+        "end": "03:01",
+        "text": "I know that feeling. Hey, what about your homeopathy? When is your course coming to an end?"
+    },
+    {
+        "speaker": "A",
+        "start": "03:02",
+        "end": "03:07",
+        "text": "After being tired for the whole day, it is a relief to board an empty train."
+    },
+    {
+        "speaker": "B",
+        "start": "03:09",
+        "end": "03:15",
+        "text": "I know that feeling. Hey, what about your homeopathy? When is your course coming to an end?"
+    },
+    {
+        "speaker": "A",
+        "start": "03:16",
+        "end": "03:25",
+        "text": "Oh, it is going to take another year. I also have to intern compulsorily and only then I and other students will get a degree."
+    },
+    {
+        "speaker": "B",
+        "start": "03:26",
+        "end": "03:28",
+        "text": "One more year to go."
+    },
+    {
+        "speaker": "A",
+        "start": "03:29",
+        "end": "03:38",
+        "text": "Oh, it is going to take another year. I also have to intern compulsorily and only then I and other students will get a degree."
+    },
+    {
+        "speaker": "B",
+        "start": "03:40",
+        "end": "03:41",
+        "text": "One more year to go."
+    },
+    {
+        "speaker": "A",
+        "start": "03:43",
+        "end": "03:44",
+        "text": "Yeah. I hope it goes well."
+    },
+    {
+        "speaker": "B",
+        "start": "03:46",
+        "end": "03:48",
+        "text": "Don't worry. It will go well."
+    },
+    {
+        "speaker": "A",
+        "start": "03:49",
+        "end": "03:51",
+        "text": "Yeah, I hope it goes well."
+    },
+    {
+        "speaker": "B",
+        "start": "03:52",
+        "end": "03:54",
+        "text": "Don't worry. It will go well."
+    },
+    {
+        "speaker": "A",
+        "start": "03:55",
+        "end": "04:00",
+        "text": "I think the train has reached. It was good meeting you after a long time."
+    },
+    {
+        "speaker": "B",
+        "start": "04:02",
+        "end": "04:09",
+        "text": "Yeah, it was nice to see you too. Anyway, we will meet soon. Till then, all the best and take care. Bye."
+    },
+    {
+        "speaker": "A",
+        "start": "04:10",
+        "end": "04:14",
+        "text": "I think the train has reached. It was good meeting you after a long time."
+    },
+    {
+        "speaker": "B",
+        "start": "04:16",
+        "end": "04:23",
+        "text": "Yeah, it was nice to see you too. Anyway, we will meet soon. Till then, all the best and take care. Bye."
+    },
+    {
+        "speaker": "A",
+        "start": "04:24",
+        "end": "04:28",
+        "text": "Yeah, I'll see you soon. You take care too. Bye."
+    }
+]
